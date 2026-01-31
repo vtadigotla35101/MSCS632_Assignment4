@@ -13,3 +13,6 @@ The entire schedule is managed within nested dictionaries for easy lookup and fo
 2.C++:
 The C++ implementation utilizes an Employee class and nested std::map containers to manage data with strict type safety. It follows a two-phase control flow: 
 q.an initial for loop attempts to assign preferred shifts, followed by a while loop that uses randomized selection to meet the minimum staffing requirement of number of employees per shift. Conflict resolution is handled through branching logic that reassigns employees to alternative slots if their preferred shift has reached maximum capacity.
+
+
+GITHUB Link: https://github.com/vtadigotla35101/MSCS632_Assignment4
